@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "0203068",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "latitude": 20.98922575, "longitude": 102.31040175, "area_in_meters": 15.0421, "full_plus_code": "7PG4X8Q6+M5R5", "vcode": "0203068" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 102.310422954608001, 20.989210518019298 ], [ 102.310422396785, 20.989241651062901 ], [ 102.310380554928003, 20.989240989846699 ], [ 102.310381112759998, 20.989209856804099 ], [ 102.310422954608001, 20.989210518019298 ] ] ] } }
+]
+}

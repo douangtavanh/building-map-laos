@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "0807079",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "latitude": 18.9264485, "longitude": 101.73323191, "area_in_meters": 15.2594, "full_plus_code": "7PC3WPGM+H7HV", "vcode": "0807079" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 101.733247833614001, 18.926428607939101 ], [ 101.733254595145993, 18.926461123794201 ], [ 101.733215982830998, 18.926468395245099 ], [ 101.733209221305998, 18.926435879387501 ], [ 101.733247833614001, 18.926428607939101 ] ] ] } }
+]
+}

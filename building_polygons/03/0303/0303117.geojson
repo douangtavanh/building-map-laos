@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "0303117",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "latitude": 21.16596501, "longitude": 100.72082799, "area_in_meters": 226.8932, "full_plus_code": "7PH25P8C+98PM", "vcode": "0303117" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 100.720887253911997, 21.165867607750201 ], [ 100.720863929450999, 21.166071972138599 ], [ 100.720768731114006, 21.166062412398301 ], [ 100.720792055705999, 21.165858048014002 ], [ 100.720887253911997, 21.165867607750201 ] ] ] } }
+]
+}
